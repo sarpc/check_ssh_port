@@ -1,0 +1,1 @@
+* */2 * * * /home/root/ssh.sh
